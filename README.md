@@ -8,7 +8,7 @@ You can install the development version of hardpackage from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("roelno/DBmaps-tests-solution")
+devtools::install_github("roelno/DBmaps-tests-solution", subdir = "hard-package")
 ```
 
 ## Overview
